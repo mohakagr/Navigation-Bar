@@ -22,7 +22,9 @@
                                 <animations/>
                                 <items>
                                     <navigationItem title="Navigation Bar" id="3AC-jC-953">
-                                        <barButtonItem key="leftBarButtonItem" systemItem="rewind" id="Fmc-CM-TmP"/>
+                                        <barButtonItem key="leftBarButtonItem" systemItem="rewind" id="Fmc-CM-TmP">
+                                            <color key="tintColor" red="1" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </barButtonItem>
                                         <barButtonItem key="rightBarButtonItem" systemItem="fastForward" id="4o0-Dx-Bq3">
                                             <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                         </barButtonItem>
